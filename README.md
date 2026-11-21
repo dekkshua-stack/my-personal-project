@@ -21,3 +21,6 @@ It includes creating a repository, cloning it to a local machine, editing files,
 
 ## Purpose
 The purpose of this project is to understand how Git and GitHub help manage project files and maintain version history.
+## Experiment 22 - Git Commit and Push
+
+This section demonstrates how to stage, commit, and push modified files to GitHub using Git commands.
