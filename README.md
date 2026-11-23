@@ -24,3 +24,6 @@ The purpose of this project is to understand how Git and GitHub help manage proj
 ## Experiment 22 - Git Commit and Push
 
 This section demonstrates how to stage, commit, and push modified files to GitHub using Git commands.
+## Collaborator Update - Experiment 23
+
+This update was added by a collaborator to demonstrate pulling the latest changes from GitHub.
